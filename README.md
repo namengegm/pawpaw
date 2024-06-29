@@ -4,3 +4,8 @@ part of fruits
 - sun
 - water
 - manure
+
+
+```
+git clone
+```
